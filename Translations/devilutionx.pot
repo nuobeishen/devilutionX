@@ -2757,7 +2757,7 @@ msgstr ""
 #. TRANSLATORS: {:s} will be a spell name
 #: Source/items.cpp:2287
 #, c++-format
-msgid "Book of {:s}"
+msgid "Book of "
 msgstr ""
 
 #. TRANSLATORS: {:s} will be a Character Name
@@ -4290,9 +4290,8 @@ msgstr ""
 
 #: Source/options.cpp:1073
 msgid ""
-"When enabled Cauldrons, Fascinating Shrines, Goat Shrines, Ornate Shrines, "
-"Sacred Shrines and Murphy's Shrines are not able to be clicked on and "
-"labeled as disabled."
+"When enabled Cauldrons, Fascinating Shrines, Goat Shrines, Ornate Shrines "
+"and Sacred Shrines are not able to be clicked on and labeled as disabled."
 msgstr ""
 
 #: Source/options.cpp:1074
@@ -4792,7 +4791,7 @@ msgstr ""
 
 #: Source/stores.cpp:313
 #, c++-format
-msgid "Dur: {:d}/{:d}"
+msgid "Dur: {:d}/{:d},  "
 msgstr ""
 
 #: Source/stores.cpp:315
@@ -10847,3 +10846,10 @@ msgstr ""
 #: Source/utils/format_int.cpp:27
 msgid ","
 msgstr ""
+
+#~ msgid "Indestructible,  "
+#~ msgstr ""
+
+#~ msgid "No required attributes"
+#~ msgstr ""
+
